@@ -1,0 +1,28 @@
+.card{
+    width: 30%;
+    margin: 100px auto;
+
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card-header{
+    text-align: center;
+    font-family: sans-serif;
+}
+.card-title{
+    width: 70%;
+   margin: 10px auto;
+    
+}
+#card-title{
+    width: 70%;
+   margin: 10px auto;
+    
+}
+#btn1{
+    width: 40%;
+    margin: 10px auto;
+}
